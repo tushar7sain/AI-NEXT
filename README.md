@@ -32,9 +32,9 @@ The website is fully responsive and works on:
 ---
 ## Preview
 
-![Homepage Screenshot](screenshot/header.png)
-![Homepage Screenshot](screenshot/main.png)
-![Homepage Screenshot](screenshot/footer.png)
+![Homepage Screenshot](screenshots/header.png)
+![Homepage Screenshot](screenshots/main.png)
+![Homepage Screenshot](screenshots/footer.png)
 ---
 
 ## Author
